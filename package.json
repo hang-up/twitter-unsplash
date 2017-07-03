@@ -2,7 +2,7 @@
   "name": "twitter-unsplash",
   "version": "0.0.1",
   "description": "A simple tool to setup your profile banner with a beautiful picture from Unsplash.",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "main": "node main.js"
   },
